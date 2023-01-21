@@ -31,7 +31,7 @@ print("Swapped values are:",num1,num2)
 ```
 
 ## OUTPUT:
-!["OUTPUT"](/image.png)
+![image](https://user-images.githubusercontent.com/120353431/213844704-a649e69a-e540-4a72-bd49-5b4993469611.png)
 
 
 
